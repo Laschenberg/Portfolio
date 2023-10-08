@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\asche\source\repos\Mixed Signals Simulator\Mixed Signals Simulator\main.c(274,19): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\asche\source\repos\Mixed Signals Simulator\Mixed Signals Simulator\main.c(327,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Mixed Signals Simulator.vcxproj -> C:\Users\asche\source\repos\Mixed Signals Simulator\Debug\Mixed Signals Simulator.exe
