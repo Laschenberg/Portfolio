@@ -9,7 +9,7 @@ public class Main {
 	public static void main(String[] args) throws InterruptedException, IOException {
 		int numRuns = 64;
 		int numThreads = 16; // Has to be an even divisor of numRuns.
-		int numTests = 6;
+		int numTests = 5;
 
 		int popCount; // Ideal found with guess/check: 100
 		float crossRate; // Typical is 0.6 to 0.8. Ideal found with guess/check: 0.6f
@@ -186,8 +186,8 @@ public class Main {
 		}
 		// Print Stats
 		
-		Visualizer.visualize(runIDs, genCounts, "Run#", "Gen Solution Found");
-		Visualizer.visualize(runIDs, times, "Run#", "Time Solution Found");
+		Visualizer.visualize(runIDs, genCounts, "Run", "Gen Solution Found");
+		Visualizer.visualize(runIDs, times, "Run", "Time Solution Found");
 	}
 
 	public static void printArr(ArrayList<Integer> arr) {
