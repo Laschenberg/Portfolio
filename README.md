@@ -2,7 +2,7 @@ To Whom it May Concern:
 
 This is a collection of my favorite projects. Below I have included a short description of the project, and a note of how much code from each file is mine.
 
-###Travling Salesman Project (April 2023):
+### Travling Salesman Project (April 2023):
 
 This is a Java project that I worked on for my Evolutionary Computation class. It's a classic problem, but I enjoyed going the extra mile here and paralellize the solution. There was provided code, but I took very little of it, opting to build a solution basically from scratch in order to structure it for parallelization. 
 
@@ -10,7 +10,7 @@ This code runs the traveling salesmam problem many times and collects statistics
 The CityDistances.txt file and the MapBuilder.java file are the only files that are not mine. 
 
 
-###Slime Climb (March 2023):
+### Slime Climb (March 2023):
 
 This is a Unity game, developed as a group project I completed with Lizzy Shackman, Michael Fisher, and Andree Vuong for a Software Development class. The project was a simulation of a software development workflow, and we utilized Scrum, Agile, and KanBan theories and documentations to coordinate our project.
 
@@ -21,7 +21,7 @@ This game took effort from everyone, and the above summary does not include the 
 
 
 
-###Mixed Signals Simulator(February 2022):
+### Mixed Signals Simulator(February 2022):
 
 This is a C project that I worked on my own time in . The code has some structures in it designed with the possibility of paralelization in mind, but the problem never grew to a size where parallelization was necessary. This project was a basic simulation of random players placing stones in a game I am developing called Mixed Signals, and the 28 statistics I collect are various goals for player-stone patterns that I was testing for how difficult they would be to attain. 
 
@@ -31,7 +31,7 @@ All of the work in this project is fully my own.
 
 
 
-###Couse Correction(May 2021):
+### Couse Correction(May 2021):
 
 While this is not a coding project, I thought that it was important to include here. This is a board game that I designed a while ago. This is not my most recent game, or the one that I am most proud of, but it is one that is complete enough that I hosted a blind playtest of it. Players who had no idea what the game was came, learned the rules from the rulebook, and played. I recorded the game on camera and talked to the players afterwards to collect feedback for itteration. This is the draft that I made after that playtest.
 
