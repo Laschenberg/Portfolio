@@ -2,6 +2,11 @@ To Whom it May Concern:
 
 This is a collection of my favorite projects. Below I have included a short description of the project, and a note of how much code from each file is mine.
 
+
+
+### Game Element Design with Evolutionary Computation (April - June 2023)
+
+
 ### Travling Salesman Project (April 2023):
 
 This is a Java project that I worked on for my Evolutionary Computation class. It's a classic problem, but I enjoyed going the extra mile here and paralellize the solution. There was provided code, but I took very little of it, opting to build a solution basically from scratch in order to structure it for parallelization. 
