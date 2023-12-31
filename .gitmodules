@@ -1,3 +1,6 @@
 [submodule "Slime Climb"]
 	path = Slime Climb
 	url = https://github.com/Laschenberg/Slime-Climb
+[submodule "02Slime-Climb"]
+	path = 02Slime-Climb
+	url = https://github.com/Laschenberg/Slime-Climb.git
