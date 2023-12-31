@@ -3,10 +3,6 @@ To Whom it May Concern:
 This is a collection of my favorite projects. Below I have included a short description of the project, and a note of how much code from each file is mine.
 
 
-
-### Game Element Design with Evolutionary Computation (April - June 2023)
-
-
 ### Travling Salesman Project (April 2023):
 
 This is a Java project that I worked on for my Evolutionary Computation class. It's a classic problem, but I enjoyed going the extra mile here and paralellize the solution. There was provided code, but I took very little of it, opting to build a solution basically from scratch in order to structure it for parallelization. 
@@ -24,6 +20,11 @@ The overall concept of the game was a group effort, and many aspects of the game
 The components of the game that are most fully my own are the level-up and power-up mechanics. Michael drew up the initial concept for blocks snapping to a grid when they landed, but the implementation is fully mine. When a full layer of blocks is completed, a random level-up effect is applied. Michael also was originally responsible for the slime spawning, but I modified that section to incorporate power-ups that would ocassionally fall in place of slimes. The ideas behind the effects of the leveling and powering up are mine with the exception of the invulnerability power up, which was a group idea when I initially pitched power-ups.
 This game took effort from everyone, and the above summary does not include the full extent of anyone's responsibilities, including my own. 
 
+
+### Game Element Design with Evolutionary Computation (April - June 2023)
+
+This is a literature review I completed as part of my Evolutionary Computation course. It surveys 26 projects pertaining to creating board or card games using Evolutionary Computation. I originally intended on completing a project of my own in this domain, but realized during my research that such a project was far beyond the scope of a single term. I intend to complete an Honors Project next year to actualize my project.
+All the writing in this document is mine. I recieved feedback from professor Vera Kazacova for this draft.
 
 
 ### Mixed Signals Simulator(February 2022):
