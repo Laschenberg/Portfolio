@@ -31,7 +31,7 @@ All the writing in this document is mine. I recieved feedback from professor Ver
 
 ### Mixed Signals Simulator(February 2022):
 
-This is a C project that I worked on my own time in . The code has some structures in it designed with the possibility of paralelization in mind, but the problem never grew to a size where parallelization was necessary. This project was a basic simulation of random players placing stones in a game I am developing called Mixed Signals, and the 28 statistics I collect are various goals for player-stone patterns that I was testing for how difficult they would be to attain. 
+This is a C project that I worked on in my own time. The code has some structures in it designed with the possibility of paralelization in mind, but the problem never grew to a size where parallelization was necessary. This project was a basic simulation of random players placing stones in a game I am developing called Mixed Signals, and the 28 statistics I collect are various goals for player-stone patterns that I was testing for how difficult they would be to attain. 
 
 In the game, players do not know the goals they score points with, and they are scored by their opponents. The first several moves are exploratory and basically random, so random players were a mostly effective heuristic. While I have done research since then on more complicated game-evaluation metrics, I have not had the opportunity to implement them yet.
 
