@@ -29,6 +29,13 @@ This is a literature review I completed as part of my Evolutionary Computation c
 All the writing in this document is mine. I recieved feedback from professor Vera Kazacova for this draft.
 
 
+### The Market Cellar Bean-Off(2024):
+
+While this is not a coding project, I thought that it was important to include here. This is a board game that I designed in 2024 specifically to be published in one of Knox College's literary magazines, the Cellar Door. This game can be played with relatively common components and a sheet of scratch paper. It is a dice-drafting roll-and-write game, and, depending on the number and familiarity of the players of the game, can be played relatively quickly. 
+
+This game went through multiple playtests with varied player-counts before I submitted it, and, after submission, it went through an additional workshop with the editors of the magazine. However, at the end of the day, all of the ideas, text, and images in this game are fully my own. 
+
+
 ### Mixed Signals Simulator(February 2022):
 
 This is a C project that I worked on in my own time. The code has some structures in it designed with the possibility of paralelization in mind, but the problem never grew to a size where parallelization was necessary. This project was a basic simulation of random players placing stones in a game I am developing called Mixed Signals, and the 28 statistics I collect are various goals for player-stone patterns that I was testing for how difficult they would be to attain. 
@@ -36,13 +43,3 @@ This is a C project that I worked on in my own time. The code has some structure
 In the game, players do not know the goals they score points with, and they are scored by their opponents. The first several moves are exploratory and basically random, so random players were a mostly effective heuristic. While I have done research since then on more complicated game-evaluation metrics, I have not had the opportunity to implement them yet.
 
 All of the work in this project is fully my own.
-
-
-
-### Couse Correction(May 2021):
-
-While this is not a coding project, I thought that it was important to include here. This is a board game that I designed a while ago. This is not my most recent game, or the one that I am most proud of, but it is one that is complete enough that I hosted a blind playtest of it. Players who had no idea what the game was came, learned the rules from the rulebook, and played. I recorded the game on camera and talked to the players afterwards to collect feedback for itteration. This is the draft that I made after that playtest.
-
-This game is a racing game that centers around the board game mechanic of "programming," where you lay out a sequence of cards to be enacted in that order. It also simulates inertia, and the combination of these two effects with a chaotic deck of "instructions" makes for a fun game where you are forced to plan for the future, and then regularly see your plans thwarted. 
-
-The only thing not mine in this project is the asteroid artwork and the artworks on the game board. The asteroid artwork is a Creative Commons (CC BY-NC 4.0) image named "Asteroid Photos" by Alexis Bailey. I have not been able to recover the original artworks I used on the gameboard, and did not take note of their attribution when I pulled them into the game. The artworks will be changed on the next draft to images I can responsibly cite.
